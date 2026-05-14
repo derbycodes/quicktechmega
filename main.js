@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `Please confirm my booking. Thank you!`
       );
 
-      window.open(`https://wa.me/233243133899?text=${message}`, '_blank');
+      window.open(`https://wa.me/233500241375?text=${message}`, '_blank');
     });
   }
 

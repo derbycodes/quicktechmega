@@ -870,6 +870,11 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   box-shadow: 0 8px 24px rgba(249,115,22,0.35);
 }
 .product-icon-wrap.cctv-prod { background: linear-gradient(135deg, var(--blue-mid), var(--blue)); box-shadow: 0 8px 24px rgba(17,67,176,0.35); }
+.product-icon-wrap.solar-inverter { background: linear-gradient(135deg, #f59e0b, #f97316); box-shadow: 0 8px 24px rgba(245,158,11,0.35); }
+.product-icon-wrap.solar-panel { background: linear-gradient(135deg, #047857, #0f766e); box-shadow: 0 8px 24px rgba(7,120,87,0.35); }
+.product-icon-wrap.nvr-dvr { background: linear-gradient(135deg, #6b21a8, #4338ca); box-shadow: 0 8px 24px rgba(107,33,168,0.35); }
+.product-icon-wrap.solar-cctv { background: linear-gradient(135deg, #125b50, #0f766e); box-shadow: 0 8px 24px rgba(15,118,110,0.35); }
+.product-icon-wrap.accessories { background: linear-gradient(135deg, #0ea5e9, #3b82f6); box-shadow: 0 8px 24px rgba(14,165,233,0.35); }
 
 .product-card h3 {
   color: var(--white);
